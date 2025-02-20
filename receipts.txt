@@ -1,0 +1,16 @@
+
+===== RECEIPT =====
+Date: 2025-02-20 06:41:07
+Orange x 1 = $2.00
+
+Total: $2.00
+Payment: Cash
+===================
+
+===== RECEIPT =====
+Date: 2025-02-20 06:45:42
+Banana x 8 = $8.00
+
+Total: $8.00
+Payment: Cash
+===================
